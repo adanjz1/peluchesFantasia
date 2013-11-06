@@ -1,0 +1,88 @@
+#welcome-text
+{
+  font-family:Verdana;
+  font-weight:bold;
+  font-size:20px;
+  color:#7CB31D;
+}
+
+#logout
+{
+  font-family:Verdana;
+  font-weight:bold;
+  font-size:20px;
+  color:#7CB31D;
+  position:relative;
+  left:75%;
+}
+
+#search-menu
+{
+  background-color:#00FF00;
+  position:absolute;
+  width:150;
+  height:300;
+}
+
+#content
+{
+  position:relative;
+  top:-3px;
+  width:1300;
+  height:550;
+  border:1px solid #7CB31A;  
+/*   z-index:-1; */
+}
+
+#main-menu
+{
+/*   background-color:#00FFFF; */
+  position:absolute;
+  width:100%;
+  height:100%;  
+}
+
+.item-unselected
+{
+  padding:10px;
+  background-color:#7CB31A;
+  color:#FDC91B;
+  font-family:helvetica,sans-serif;
+  font-size:20px;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+.item-selected
+{
+  padding:10px;
+  background-color:#FDC91B;
+  color:#7CB31A;
+  font-family:helvetica,sans-serif;
+  font-size:20px;  
+  font-weight:bold;
+  cursor:pointer;
+}
+
+.action-unselected
+{
+  font-family:helvetica,sans-serif;
+  font-size:16px;  
+  border:1px solid #7CB31A;
+  color:black;
+  cursor:pointer;
+}
+
+.action-selected
+{
+  font-family:helvetica,sans-serif;
+  font-size:16px;  
+  background-color:#7CB31A;
+  color:white;
+  cursor:pointer;
+}
+
+a:link {text-decoration: none;border:none;}
+a:visited {text-decoration: none;border:white;}
+a:active {text-decoration: none;border:none;}
+a:hover {text-decoration: none; color: black;}

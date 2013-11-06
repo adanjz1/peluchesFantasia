@@ -1,0 +1,29 @@
+.contenidositio {
+	font-size: 12px;
+	background-color:#FFF;
+	padding-right: 35px;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	color: #333;
+}
+
+.contenidositio h1 {
+	font-size: 15px;	
+}
+
+.contenidositio h2 {
+	font-size: 13px;	
+}
+
+.enlacesmenuinf {
+	font-size: 11px;
+	color: #000;	
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.enlacesmenuinf a {
+	font-size: 11px;
+	color: #000;	
+	font-family: Arial, Helvetica, sans-serif;	
+}

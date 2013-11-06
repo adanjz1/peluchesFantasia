@@ -1,0 +1,85 @@
+#product-table
+{
+  border-collapse:collapse;
+}
+
+#user-table
+{
+  border-collapse:collapse;
+}
+
+#subcategory-list
+{
+/*   border-collapse:collapse; */
+}
+
+.product-table-head
+{
+  font-family:helvetica,sans-serif;
+  font-size:14px;
+  font-weight:bold;  
+  background-color:#FDC91B;
+  color:#7CB31A;
+  border:1px solid #7CB31A;
+}
+
+.product-table-head
+{
+  font-family:helvetica,sans-serif;
+  font-size:14px;
+  font-weight:bold;  
+  background-color:#FDC91B;
+  color:#7CB31A;
+  border:1px solid #7CB31A;
+}
+
+.content-table-head
+{
+  font-family:helvetica,sans-serif;
+  font-size:14px;
+  font-weight:bold;  
+  background-color:#FDC91B;
+  color:#7CB31A;
+  border:1px solid #7CB31A;
+}
+
+.content-table-cell
+{
+  border-right:1px solid #7CB31A;
+  border-left:1px solid #7CB31A;
+  font-family:helvetica,sans-serif;
+  font-size:14px;  
+  color:#7CB31A;
+}
+
+.content-table-cell-selected
+{
+  border-right:1px solid #7CB31A;
+  border-left:1px solid #7CB31A;
+  font-family:helvetica,sans-serif;
+  font-size:14px;  
+  background-color: yellow;
+  color:#7CB31A;  
+}
+
+.content-list
+{
+  font-family:helvetica,sans-serif;
+  text-align:center;
+  width:300px;
+  font-size:14px;
+  border:1px solid #7CB31A;
+  list-style-type:none;
+}
+
+.content-list-selected
+{
+  font-family:helvetica,sans-serif;
+  text-align:center;
+  width:300px;
+  font-size:14px;
+  border:1px solid #7CB31A;
+  list-style-type:none;
+  background-color:#FDC91B;
+}
+
